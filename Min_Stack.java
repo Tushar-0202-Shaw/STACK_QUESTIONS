@@ -1,4 +1,3 @@
-package Stack_Interview_Questions;
 import java.util.*;
 class MinStack{
     Stack<Integer> st = new Stack<>();
