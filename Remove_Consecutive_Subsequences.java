@@ -1,4 +1,3 @@
-package Stack_Interview_Questions;
 import java.util.*;
 public class Remove_Consecutive_Subsequences {
     static int[] remove(int[] arr){
