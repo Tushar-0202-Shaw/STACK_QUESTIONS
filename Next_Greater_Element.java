@@ -1,4 +1,3 @@
-package Stack_Interview_Questions;
 import java.util.Stack;
 public class Next_Greater_Element {
     static int[] nextGreaterElement(int[]arr){
