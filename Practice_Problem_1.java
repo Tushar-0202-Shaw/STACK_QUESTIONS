@@ -1,4 +1,3 @@
-package Stack_Interview_Questions;
 import java.util.*;
 public class Practice_Problem_1 {
     static int countForBalance(String str){
